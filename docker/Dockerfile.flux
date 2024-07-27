@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.19.3
 
 WORKDIR /home/flux
 
